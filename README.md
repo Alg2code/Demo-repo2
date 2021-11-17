@@ -1,3 +1,3 @@
 ## Git Session1
 
-What is git not github.
+What is git not github?
